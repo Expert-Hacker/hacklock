@@ -12,9 +12,9 @@ echo '
 echo " "
 echo "                             About"|lolcat
 echo " "
-echo "       🙏 Hey, there I am Nakeeb (Nitro), i made this tool
+echo "       🙏 Hey, there It's Karavali-Studio, i made this tool
   to penetrate pattern by link from termux, so i hope guys you
                              liked it. 😘"
 echo ""
-echo "                  Our channel :- Noob Hackers"| lolcat
+echo "                  Our channel :- Karavali-Studio"| lolcat
 echo " "
