@@ -7,7 +7,7 @@
 ## 🔍 ***About hacklock***:
 
 hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
-![Screenshot_](https://user-images.githubusercontent.com/49580304/78962692-8c32f900-7b12-11ea-9ddb-dd5d94d825be.jpg)
+![Screenshot_](IMG_20200419_215804.jpg )
 
 ### 📌 ***Hacklock is available for***:
 
